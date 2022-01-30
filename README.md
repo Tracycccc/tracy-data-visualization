@@ -16,6 +16,7 @@ Here is my work in Telling Stories with Data.
 
 ### Data visualization workshops
 #### Visualizing government debt
+This assignment tells stories on General Government Debt with data from [OECD](https://data.oecd.org/). It uses different visualization tools, including OECD's web-based visualization tool and Flourish.
 [Assignment 2: Visualizing government debt](/Visualizing government debt.md)
 
 ### Final project
