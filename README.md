@@ -1,6 +1,6 @@
 # tracy-data-visualization
 
-Published site [here](https://tracycccc.github.io/tracy-data-visualization/)
+Published site [here](https://tracycccc.github.io/tracy-data-visualization/).
 
 This portfolio includes what I learned from Telling Stories with Data at CMU
 
