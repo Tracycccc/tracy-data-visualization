@@ -15,6 +15,6 @@ Here is my work in Telling Stories with Data.
 ### Data visualization critiques
 
 ### Data visualization workshops
-[government debt] (/Visualizing government debt.md)
+[government debt](/Visualizing government debt.md)
 
 ### Final project
