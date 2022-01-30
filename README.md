@@ -1,6 +1,6 @@
 # tracy-data-visualization
 
-Published site: https://tracycccc.github.io/tracy-data-visualization/
+Published site [here](https://tracycccc.github.io/tracy-data-visualization/)
 
 This portfolio includes what I learned from Telling Stories with Data at CMU
 
@@ -15,6 +15,7 @@ Here is my work in Telling Stories with Data.
 ### Data visualization critiques
 
 ### Data visualization workshops
-[government debt](/Visualizing government debt.md)
+#### Visualizing government debt
+[Assignment 2: Visualizing government debt](/Visualizing government debt.md)
 
 ### Final project
