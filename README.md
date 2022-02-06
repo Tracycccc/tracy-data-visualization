@@ -14,7 +14,7 @@ I expect to learn about how to design a proper visualization to convey informati
 Here is my work in Telling Stories with Data.
 ### Data visualization critiques
 #### Critique by Design
-This assignment contains two parts. Firstly, it uses Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to evaluate the [Food Insecurity by Household Characteristics](https://www.ers.usda.gov/webdocs/charts/80061/insecurity.png?v=5479.7) by USDA. Then it redesigned the visualization using the original data.
+This assignment contains two parts. Firstly, it used Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to evaluate the [Food Insecurity by Household Characteristics](https://www.ers.usda.gov/webdocs/charts/80061/insecurity.png?v=5479.7) by USDA. Then it redesigned the visualization using the original data.
 
 [Assignment 3 & 4: Critique by design](/Critique by design.md)
 
