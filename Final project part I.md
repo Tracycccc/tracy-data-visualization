@@ -19,6 +19,6 @@ Data source:
 I will select part of data based on food groups and countries to describe the dietary composition. Besides, I will combine the diet information with health information to see if there is any correlation.
 
 ### Method and medium
-I will use Shorthand to complete the final project.
+I will use Shorthand to complete the final project. I may use other tools (excel, tableau, flourish, etc.) in data visualization.
 
 Back to the [main portfolio page](https://tracycccc.github.io/tracy-data-visualization/).
