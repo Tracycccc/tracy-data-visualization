@@ -29,3 +29,8 @@ This assignment tells stories on General Government Debt with data from [OECD](h
 Part I creates an outline of my final project, including initial sketches, data sources, and method and medium to be used.
 
 [Final project part I](/Final project part I.md)
+
+#### Final project part II
+Part II gives more detailed wireframes as well as user research report.
+
+[Final project part II](/Final project part II.md)
