@@ -3,10 +3,14 @@ After reflecting on the feedback, I realize that my part I illustration is kind 
 
 Below is my further-developed outline:
 1. The regional difference in the diet composition between Eastern and Western countries
-- An overview
-- animal food
-- fruit
+- An overview of composition difference
+- Animal food
+- Fruit
 2. Reasons behind the difference
+- Economic reason
+- Environment and climate
+- Cooking & eating diets
+- Historic reason
 3. Examples: China and US
 4. Health implication
 
