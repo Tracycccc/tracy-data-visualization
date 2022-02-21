@@ -3,12 +3,12 @@ After reflecting on the feedback, I realize that my part I illustration is kind 
 
 Below is my further-developed outline:
 1. The regional difference in the diet composition between Eastern and Western countries
-- An overview
-- animal food
-- fruit
-3. Reasons behind the difference
-4. Examples: China and US
-5. Health implication
+  - An overview
+  - animal food
+  - fruit
+2. Reasons behind the difference
+3. Examples: China and US
+4. Health implication
 
 ### Wireframes
 
