@@ -7,8 +7,7 @@ Below is my further-developed outline:
 - Animal food
 - Fruit
 2. Reasons behind the difference
-- Economic reason
-- Environment and climate
+- Main reason: food supply(economic reason, environment and climate)
 - Cooking & eating diets
 - Historic reason
 3. Examples: China and US
