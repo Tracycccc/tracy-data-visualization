@@ -17,11 +17,14 @@ Below is my further-developed outline:
 3. Health implication
 
 ### Wireframes
+
 **An overview of Chinese diet composition by food groups**
+
 The kilocalories intake per person per day has doubled since 1960. Cereals remain as the major source of energy. Besides, there is an increasing diversity in food groups, adding to the energy intake.
 <div class="flourish-embed flourish-chart" data-src="visualisation/8773340"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 **Why do Chinese like cereals so much?** (compare Chinese' consumption of cereal to world average)
+
 The main food of Chinese is rice and wheat. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8774739"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -30,10 +33,10 @@ China has a long history of growing and consuming cereals and it has been one of
 <div class="flourish-embed flourish-chart" data-src="visualisation/8774924"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 **What is behind the food diversification?**
+With the economic development, the progressing productivity and the booming market lead to an increase in food supply. At the same time, people's income level improves and they tend to pursue more diversified diets.
+<div class="flourish-embed flourish-chart" data-src="visualisation/8774992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-fat/oil: Daily meat consumption(fat?); economic development, market&trade, diversified food supply, leisure
-meat,fat/oil,fruit intake increase with GDP growth
-
+**Health Implications**
 Increase in obesity/overweight
 
 
