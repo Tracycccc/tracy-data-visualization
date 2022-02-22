@@ -18,17 +18,16 @@ Below is my further-developed outline:
 
 ### Wireframes
 **An overview of Chinese diet composition by food groups**
-<div class="flourish-embed flourish-chart" data-src="visualisation/8773340"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 The kilocalories intake per person per day has doubled since 1960. Cereals remain as the major source of energy. Besides, there is an increasing diversity in food groups, adding to the energy intake.
+<div class="flourish-embed flourish-chart" data-src="visualisation/8773340"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 **Why do Chinese like cereals so much?** (compare Chinese' consumption of cereal to world average)
+The main food of Chinese is rice and wheat. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8774739"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Main food consumption (rice) - Per capita consumption of cereals by commodity type, daily kilocalories (grains&wheat): rice production, argriculture country
-energy/calories from cereals(grains/wheat)
-
-
-China ranks first in the world in terms of the production of cereals, cotton, fruit, vegetables, meat, poultry, eggs and fishery products. (https://www.fao.org/china/fao-in-china/china-at-a-glance/en/)
-
+China has a long history of growing and consuming cereals and it has been one of the largest agricultural country that [ranks first](https://www.fao.org/china/fao-in-china/china-at-a-glance/en/) in the production of cereals. The monsoon climate and ample land makes it easier for Chinese to grow cereals. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8774963"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/8774924"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 **What is behind the food diversification?**
 
