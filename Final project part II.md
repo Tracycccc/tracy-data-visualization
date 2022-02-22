@@ -43,22 +43,21 @@ Hi, here is my story about Chinese diet composition. Could you please take a rev
 
 **Questions:**
 - Is the structure logical enough? Is it easy to follow? Would it be better to put foward the two factors one by one following with the corresponding reasons and analysis?
+- Due to data collection, there is a time unmatch among graphs (e.g. some graphs end in 2013 and some in 2017). Will that be a problem to you?
+- Will the story be too long? Is there any part that is unnecessary?
 - Does the topic interest you? Is there anything you expect to see but I fail to include?
-unmatch of the periods 
-Will the story be too long? Any part that is unnecessary?
-Will it be better to make the conclusion as the setup? E.g. start with "Chinese are getting overweight" and then follow with reasons from the perspective of diet composition.
-
-
-
+- Follow-up question: If you would like to see the health issues, how do you think I should change the structure? Shall I include it in the end as a conclusion/resolution? Or will it be better to make it as the setup? 
 
 #### Findings from interviews
-
+It is concise story that follows a logical way. The time unmatch in not that important, as people care more about the trend, though it will be a pity that they cannot see the most updated data. However, when it comes to "diet", the first thing that comes to people will be health. Therefore, people are more interested in how what we eat is compared to the standard/suggested diet and any health issues (e.g. obesity) along with current diet. It seems better if I throw out a phenomenon first and then perform analysis. It will be more straightforward and attractive.
 
 #### Implementation plan
-
+- Search for most recent data about the visualizations
+- Add Chinese obesity visualization. Start with "Chinese are getting overweight" statement and then follow with reasons from the perspective of diet composition.
 
 ### Next step
 - Adjust based on feedback
-- Pictures & text & format to finish the story in Shorthand
+- Add pictures & text & format to finish the story in Shorthand
 - Polish the graphs
 - Complete citations
+- Practice & rehearsal 
