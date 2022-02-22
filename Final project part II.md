@@ -1,20 +1,14 @@
 ### Adjustment based on feedback from instructors and classmates
 After reflecting on the feedback, I realized that my part I illustration was kind of vague, which only showed the data but not the ideas. In part II, I dive into the "Diet Composition" topic and decide to investigate into Chinese diet compositions.
 
-Initially I planned to compare the diet compositions of China and the U.S., as representatives of Eastern and Western countries. However, after sharing my ideas with classmates, I found that it was still too broad to be covered in a 1-minute presentation. At the same time, it does not have many practical implications. Therefore, I further scoped down and made the topic focused on Chinese diet compositions.
+Initially I planned to compare the diet compositions of China and the U.S., as representatives of Eastern and Western countries. However, after sharing my ideas with classmates, I found that it was still too broad to be covered in a 1-minute presentation. Therefore, I further scoped down and made the topic focused on Chinese diet compositions.
 
 Below is my further-developed outline:
-1. The diet composition of China
-- An overview of the composition
-- Consumption of main food (compared to world average)
-- Consumption of meat, fruit and others (compared to world average)
-- Caloric supply
-(- Diet composition v.s. EAT-Lancet diet)
-2. Reasons behind the difference
-- Environment and climate
-- Economic factors, urbanization, leisure
-- Culture
-3. Health implication
+1. An overview of Chinese diet composition
+- Cereals remain as the major source of energy
+- Diversification in food groups
+2. Reasons behind the large proportion of cereals: history; high production volume
+3. Reasons behind the diversification in food groups: economic development; increasing food supply
 
 ### Wireframes
 
@@ -33,23 +27,30 @@ China has a long history of growing and consuming cereals and it has been one of
 <div class="flourish-embed flourish-chart" data-src="visualisation/8774924"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 **What is behind the food diversification?**
+
 With the economic development, the progressing productivity and the booming market lead to an increase in food supply. At the same time, people's income level improves and they tend to pursue more diversified diets.
 <div class="flourish-embed flourish-chart" data-src="visualisation/8774992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-**Health Implications**
-Increase in obesity/overweight
-
-
-
 ### User research
+#### The target audience
 primary audience: 
 
+#### Identify representative individuals to interview
 
+
+#### Interview script
 Is the structure logical enough? Would it be better to put foward the two factors one by one following with the corresponding reason?
 unmatch of the periods 
 Will the story be too long? Any part that is unnecessary?
 Will it be better to make the conclusion as the setup? E.g. start with "Chinese are getting overweight" and then follow with reasons from the perspective of diet composition.
 Easy to follow? Story told in a logical way?
+
+
+#### Findings from interviews
+
+
+#### Implementation plan
+
 
 ### Next step
 Adjust based on feedback
