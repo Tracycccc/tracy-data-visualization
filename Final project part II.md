@@ -53,6 +53,7 @@ It is concise story that follows a logical way. The time unmatch in not that imp
 
 #### Implementation plan
 - Search for most recent data about the visualizations
+- Compare the current diet composition to a standard diet
 - Add Chinese obesity visualization. Start with "Chinese are getting overweight" statement and then follow with reasons from the perspective of diet composition.
 
 ### Next step
