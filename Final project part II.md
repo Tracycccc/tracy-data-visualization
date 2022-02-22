@@ -33,17 +33,22 @@ With the economic development, the progressing productivity and the booming mark
 
 ### User research
 #### The target audience
-primary audience: 
+People interested in the trend of Chinese diet, especially thoses who would like to keep fit and consumers who care about what they are eating.
 
 #### Identify representative individuals to interview
-
+I will interview a person who keeps fit and designs dietary meals by herself. Another two interviewees are general consumers who care about diet balance. The final interviewee is an elder who may experiece the change of diet. One of general consumers are American. All of other three are Chinese.
 
 #### Interview script
-Is the structure logical enough? Would it be better to put foward the two factors one by one following with the corresponding reason?
+Hi, here is my story about Chinese diet composition. Could you please take a review and answer some questions for me? Your feedback would help a lot in my further work!
+
+**Questions:**
+- Is the structure logical enough? Is it easy to follow? Would it be better to put foward the two factors one by one following with the corresponding reasons and analysis?
+- Does the topic interest you? Is there anything you expect to see but I fail to include?
 unmatch of the periods 
 Will the story be too long? Any part that is unnecessary?
 Will it be better to make the conclusion as the setup? E.g. start with "Chinese are getting overweight" and then follow with reasons from the perspective of diet composition.
-Easy to follow? Story told in a logical way?
+
+
 
 
 #### Findings from interviews
@@ -53,7 +58,7 @@ Easy to follow? Story told in a logical way?
 
 
 ### Next step
-Adjust based on feedback
-Pictures & text & format to finish the story in Shorthand
-Polish the graphs
-Complete citations
+- Adjust based on feedback
+- Pictures & text & format to finish the story in Shorthand
+- Polish the graphs
+- Complete citations
