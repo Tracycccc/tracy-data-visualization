@@ -34,3 +34,8 @@ Part I creates an outline of my final project, including initial sketches, data 
 Part II gives more detailed wireframes as well as user research report.
 
 [Final project part II](/Final project part II.md)
+
+#### Final project part III
+Part III summarizes the project and provides the link to the final data story.
+
+[Final project part III](/Final project part III.md)
