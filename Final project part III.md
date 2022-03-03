@@ -8,9 +8,12 @@ The story target on Chinese people who are troubled with obesity or care about p
 3. Add call to action to have a balanced diet; give the suggested calories intake and suggested diet.
 4. Add more text to explain the logic
 
-#### Other design decisions
-
-what is behind data? not just data report
+#### Design decisions
+From part I to part III, also with some discussion practice, I learned about to tell a story with data is not to report data, but to give a narrative with clear call to action. Data visualization is just a support.
+1. Part I - decide a broad topic: I did not have a clear idea on what to do, to be honest. I just browsed online to see anything that may interest me. I came accross the diet composition topic at that time and decided to pick that one as my final project. I did not think of any specific key ideas so simply provided some general sketches to depict the data (which made my future parts more struggling).
+2. Part II: 
+3. Discussion: narrative, control color
+4. Visualization critique
 
 
 ### Link to the data story
