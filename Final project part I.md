@@ -21,4 +21,8 @@ I will select part of data based on food groups and countries to describe the di
 ### Method and medium
 I will use Shorthand to complete the final project. I may use other tools (excel, tableau, flourish, etc.) in data visualization.
 
+Back to [Final project part II](/Final project part II.md). 
+
+Back to [Final project part III](/Final project part III.md).
+
 Back to the [main portfolio page](https://tracycccc.github.io/tracy-data-visualization/).
