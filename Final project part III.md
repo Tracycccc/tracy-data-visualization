@@ -5,8 +5,8 @@ The story target on Chinese people who are troubled with obesity or care about p
 #### Changes from part II
 1. Add the obesity information. Start with “Chinese are getting overweight” statement and then present the obesity prevalence and obesity rate.
 2. Follow with reasons from the perspective of diet composition.
-3. Add call to action
-
+3. Add call to action to have a balanced diet; give the suggested calories intake and suggested diet.
+4. Add more text to explain the logic
 
 #### Other design decisions
 
