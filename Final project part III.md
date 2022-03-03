@@ -1,11 +1,14 @@
 ### Project summary
 #### Target audience
-
+The story target on Chinese people who are troubled with obesity or care about physical fitness. The interviews helped a lot. Based on interviewee's feedback, when it came to diet, they would first think of health and fitness. As they were my audience, I got to know what they would like to learn when it came to the topic. Furthermore, I found that the increasing obesity rate was consistent with the increasing calories intake. I also searched for some articles about Chinese obesisty and Chinese diet to see how they developed the story. Most of them connected the change of diet composition with obesity and talked about the prevelance and negative impacts of obesity to raise attention. I decided to follow a similar logic to attract my target audience.
 
 #### Changes from part II
+1. Add the obesity information. Start with “Chinese are getting overweight” statement and then present the obesity prevalence and obesity rate.
+2. Follow with reasons from the perspective of diet composition.
+3. Add call to action
 
 
-#### Design decisions
+#### Other design decisions
 
 what is behind data? not just data report
 
