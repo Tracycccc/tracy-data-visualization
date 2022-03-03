@@ -63,4 +63,8 @@ It is concise story that follows a logical way. The time unmatch in not that imp
 - Complete citations
 - Practice & rehearsal 
 
+Back to [Final project part I](/Final project part I.md). 
+
+Back to [Final project part III](/Final project part III.md).
+
 Back to the [main portfolio page](https://tracycccc.github.io/tracy-data-visualization/).
