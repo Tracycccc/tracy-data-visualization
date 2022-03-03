@@ -1,4 +1,13 @@
 ### Project summary
+#### Target audience
+
+
+#### Changes from part II
+
+
+#### Design decisions
+
+
 
 
 ### Link to the data story
@@ -34,6 +43,7 @@ Snyder, S. (2019). Chinese Steamed Rice [Image]. Retrieved from https://dinnerth
 TrimDownClub. (2016). The Chinese Diet: Healthier Than You Think [Image]. Retrieved from https://www.trimdownclub.com/the-chinese-diet-healthier-than-you-think/
 
 Woetzel, J. (2019). Retrieved 27 February 2022, from https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/chinas-changing-eating-habits-weigh-on-countrys-future
+
 
 
 Back to [Final project part I](/Final project part I.md).
