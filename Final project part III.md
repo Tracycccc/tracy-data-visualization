@@ -7,7 +7,7 @@
 
 #### Design decisions
 
-
+what is behind data? not just data report
 
 
 ### Link to the data story
@@ -44,7 +44,7 @@ TrimDownClub. (2016). The Chinese Diet: Healthier Than You Think [Image]. Retrie
 
 Woetzel, J. (2019). Retrieved 27 February 2022, from https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/chinas-changing-eating-habits-weigh-on-countrys-future
 
-
+### Navigation
 
 Back to [Final project part I](/Final project part I.md).
 
