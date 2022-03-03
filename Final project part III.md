@@ -11,9 +11,8 @@ The story target on Chinese people who are troubled with obesity or care about p
 #### Design decisions
 From part I to part III, also with some discussion practice, I learned about to tell a story with data is not to report data, but to give a narrative with clear call to action. Data visualization is just a support.
 1. Part I - decide a broad topic: I did not have a clear idea on what to do, to be honest. I just browsed online to see anything that may interest me. I came accross the diet composition topic at that time and decided to pick that one as my final project. I did not think of any specific key ideas so simply provided some general sketches to depict the data (which made my future parts more struggling).
-2. Part II: 
-3. Discussion: narrative, control color
-4. Visualization critique
+2. Part II - narrow down the topic: After discussion with classmates, I further scoped down the topic and made the it focused on Chinese diet compositions. I proposed one key point and two main reasons behind as the story body. However, I missed the call to action and did not fully reflect my target audience.
+3. I think the discussion assginments helped a lot in my proejct. For example, in the last discussion, I chose narrative and "Why women are paid less". It kind of gave me some hint to tell a story of "Why obesity in China", how to set up the questions, state the conflict and put forward a resolution. In the control color discussion, I learned how to use colors to facilitate the information convey. I applied it in my project, such as using similar colors for the same group of data.
 
 
 ### Link to the data story
